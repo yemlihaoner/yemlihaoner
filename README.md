@@ -13,7 +13,7 @@
 -->
 
 - 😍 I love working with Flutter
-- 🔭 I’m currently working with Python TensorFlow on ML 
-- 🌱 I’m currently learning optimization with Python
-- 💬 Ask me about developing mobile apps with Flutter
+- 🔭 I’m currently working about Plugin development on .Net (Xamarin, C#)
+- 🌱 I’m currently learning MAUI and Plugin development on Flutter
+- 💬 Ask me about developing crossplatform mobile apps
 - 📫 How to reach me: yemlihaoner@mail.com
